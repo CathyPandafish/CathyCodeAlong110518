@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-CathyCodeAlong-110518", "MVC-CathyCodeAlong-110518\MVC-CathyCodeAlong-110518.csproj", "{FFE11DD1-E69F-449C-BB01-2D9124FB96E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE11DD1-E69F-449C-BB01-2D9124FB96E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE11DD1-E69F-449C-BB01-2D9124FB96E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE11DD1-E69F-449C-BB01-2D9124FB96E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE11DD1-E69F-449C-BB01-2D9124FB96E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55B902F-E809-4049-91F5-407F3048045D}
+	EndGlobalSection
+EndGlobal
